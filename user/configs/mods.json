@@ -1,0 +1,32 @@
+{
+	"AllItemsExamined-1.0.0_TheMaoci": {
+		"isEnabled": true,
+		"folder": "AllItemsExamined_1.0.0",
+		"order": 1
+	},
+	"EquipRigsWithArmors-1.0.0_TheMaoci": {
+		"isEnabled": true,
+		"folder": "EquipRigsWithArmors_1.0.0",
+		"order": 2
+	},
+	"LessWeightItems-1.0.0_TheMaoci": {
+		"isEnabled": true,
+		"folder": "LessWeightItems_1.0.0",
+		"order": 3
+	},
+	"NoBackpackRestrictions-1.0.0_TheMaoci": {
+		"isEnabled": true,
+		"folder": "NoBackpackRestrictions_1.0.0",
+		"order": 4
+	},
+	"NoFallDamage-1.0.0_TheMaoci": {
+		"isEnabled": true,
+		"folder": "NoFallDamage_1.0.0",
+		"order": 5
+	},
+	"NoInraidRestriction-1.0.0_TheMaoci": {
+		"isEnabled": true,
+		"folder": "NoInraidRestriction_1.0.0",
+		"order": 6
+	}
+}
